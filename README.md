@@ -3,15 +3,20 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gosain</h1>
 <h3 align="centre">Aspiring Data Analyst with expertise in Tableau, Python SQL, and Excel. Demonstrated capabilities through internships and diverse projects, to deliver high-quality work and continuous learning. My expertise lies in identifying trends, patterns, and correlations to uncover valuable business insights and optimize processes.</h3>
 
-<img align="right" alt = "Coding" width ="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgyZDdodXMzcnV0dWJ4a3ZzNDAwdWZpbGFpaWMwMW5hcjZtaG1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
+<img align="right" alt = "Coding" width ="380" src="https://github.com/SudhanshuG69/SudhanshuG69/assets/128242327/c9f0bb16-e4f5-4818-9b0a-db278cea199e">
+
+<h1 align="left"> About me:</h1>
+
 
 - 🔭 I’m currently working on **Data Analysis and Machine Learning Projects.**
 
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Artificial Intelligent.**
+
 
 - 👯 I’m Interested on collaborating to **Analytics and Machine Learning Projects.**
 
-- 💬 Ask me about **Python,SQL,Visualizations tools like PowerBi & Tableau.**
+- 💬 Ask me about **Anything & feel free to give your Feedback and Suggestions.**
 
 - 📫 How to reach me **gsudhanshu639@gmail.com**
 
