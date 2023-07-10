@@ -1,4 +1,4 @@
-<img align="centre" alt = "Coding" width ="1000" height = "600" src = "https://github.com/SudhanshuG69/SudhanshuG69/assets/128242327/f2096b3a-528c-49c2-81a4-ec83f41eb93d">
+<img align="centre" alt = "Coding" width ="600" height = "600" src = "https://github.com/SudhanshuG69/SudhanshuG69/assets/128242327/f2096b3a-528c-49c2-81a4-ec83f41eb93d">
 
 <h1 align="center">Hi 👋, I'm Sudhanshu Gosain</h1>
 <h3 align="centre">Aspiring Data Analyst with expertise in Tableau, Python SQL, and Excel. Demonstrated capabilities through internships and diverse projects, to deliver high-quality work and continuous learning. My expertise lies in identifying trends, patterns, and correlations to uncover valuable business insights and optimize processes.</h3>
