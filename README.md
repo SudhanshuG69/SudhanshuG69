@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gosain</h1>
 <h3 align="centre">Aspiring Data Analyst with expertise in Tableau, Python SQL, and Excel. Demonstrated capabilities through internships and diverse projects, to deliver high-quality work and continuous learning. My expertise lies in identifying trends, patterns, and correlations to uncover valuable business insights and optimize processes.</h3>
 
-<img align="right" alt = "Coding" width ="380" src="https://github.com/SudhanshuG69/SudhanshuG69/assets/128242327/c9f0bb16-e4f5-4818-9b0a-db278cea199e">
+<img align="right" alt = "Coding" width ="350" src="https://github.com/SudhanshuG69/SudhanshuG69/assets/128242327/c9f0bb16-e4f5-4818-9b0a-db278cea199e">
 
 <h1 align="left"> About me:</h1>
 
